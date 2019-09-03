@@ -9,8 +9,6 @@ E Atualizando o README Somente na Branch Desenvolvimento
 
 Depois de ter trabalhado na Branch de Desenvolvimento, realizado um merge para sincronizar os commits com a Master
 
-Alguns Códigos basicos
-======================
 
 git status
 
